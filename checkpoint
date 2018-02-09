@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:/Users/Vedang Naik/Desktop/Programming/Handwriting Recognition/emnist/mymodel"
+all_model_checkpoint_paths: "C:/Users/Vedang Naik/Desktop/Programming/Handwriting Recognition/emnist/mymodel"
